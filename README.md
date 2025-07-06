@@ -1,4 +1,4 @@
-# 📬 MailTagger - 
+# 📬 MailTagger 
 Your inbox, auto-organized. Label Gmail messages by sender or keyword — effortlessly.
 
 Automatically organize your Gmail inbox by labeling emails based on sender names or keywords in the subject and body.  
